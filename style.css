@@ -1,0 +1,31 @@
+body {
+  min-height: 100vh;
+  font-family: 'Anton', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff0b2;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.btn-candy {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-decoration: none;
+  padding: 12px 36px;
+  background: #6d6d6d;
+  border: 1px solid #6d6d6d;
+  border-radius: 12px;
+  color: white;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  letter-spacing: .02em;
+  transition: all .2s ease;
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+}
