@@ -21,7 +21,7 @@ body {
   background: #FBEAEB;
   border: 1px solid #FBEAEB;
   border-radius: 12px;
-  color: white;
+  color: black; /* Updated color */
   font-size: 16px;
   line-height: 22px;
   font-weight: 600;
